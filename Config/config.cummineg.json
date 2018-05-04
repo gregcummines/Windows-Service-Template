@@ -1,0 +1,13 @@
+﻿{
+  "ConnectionStrings": {
+    "Template": "Data Source=EPSWEDEV1;Initial Catalog=TemplateBranchV4_9;Integrated Security=True;Connect Timeout=100;",
+    "ProductParameterValues": "Data Source=EPSWEDEV1;Initial Catalog=ProductParameterValues;Integrated Security=True;Connect Timeout=100;",
+    "ProductCatalogProd": "Data Source=EP2P-SQL21.ms.starkey.com;Initial Catalog=PCProd;Integrated Security=True;Connect Timeout=100;",
+    "RokaProd": "Data Source=EP2P-SQL21.ms.starkey.com;Initial Catalog=Roka;Integrated Security=True;Connect Timeout=100;",
+    "CatProd": "Data Source=EP2P-SQL09;Initial Catalog=CATDB;Integrated Security=True;Connect Timeout=100;"
+  },
+  "ServiceUrl": "http://localhost:2912/services/RESTService",
+  "Environment": "Local",
+  "WebsiteUrl": "http://localhost:2911",
+  "ExportBasePath": "c:\\\\temp\\TemplateExport"
+}

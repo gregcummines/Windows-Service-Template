@@ -1,0 +1,10 @@
+﻿{
+  "ConnectionStrings": {
+    "ProductParameterValues": "Data Source=EPSWEDEV1;Initial Catalog=ProductParameterValues;Integrated Security=True;Connect Timeout=100;",
+    "ProductCatalogProd": "Data Source=EP2P-SQL21.ms.starkey.com;Initial Catalog=PCProd;Integrated Security=True;Connect Timeout=100;",
+    "RokaProd": "Data Source=EP2P-SQL21.ms.starkey.com;Initial Catalog=Roka;Integrated Security=True;Connect Timeout=100;",
+    "Template": "Data Source=localhost;Initial Catalog=TemplatePreProd;Integrated Security=True;Connect Timeout=100;",
+    "CatProd": "Data Source=EP2P-SQL09;Initial Catalog=CATDB;Integrated Security=True;Connect Timeout=100;",
+  }
+}
+
